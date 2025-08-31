@@ -1,3 +1,9 @@
 h1{
     color: "red";
+    border: 2x solid yellow;
+}
+
+h2
+{
+    color: "green";
 }
